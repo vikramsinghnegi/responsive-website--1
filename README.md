@@ -8,8 +8,8 @@
 
 - HTML5
 - CSS3 (including media queries for responsiveness)
-- JavaScript (if applicable)
-- Any libraries or frameworks (e.g., Bootstrap, React) used
+- JavaScript 
+  
 
 ## Installlation
 
