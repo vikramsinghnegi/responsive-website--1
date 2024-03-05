@@ -13,10 +13,10 @@
 
 ## Installlation
 
-# Navigate to the project directory
+ Navigate to the project directory
 cd your-website
 
-# Open index.html in your web browser
+ Open index.html in your web browser
 
 
 
